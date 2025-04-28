@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+In this assignment, I learned how to transform datasets for visualization by grouping and filtering based on thresholds, and how to build interactive dashboards with Streamlit. I practiced merging data carefully to maintain correct relationships, especially when adding lat/lon information for maps. I struggled a bit with tuning the size of map markers based on the amount of fines — scaling values for visual clarity took some trial and error. I also realized I need more practice designing charts that accurately reflect the data without overwhelming the user. Overall, this assignment helped me see that data often needs reshaping even after cleaning, depending on the type of visualization I want to create.
